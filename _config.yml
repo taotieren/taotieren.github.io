@@ -32,7 +32,7 @@ disqus:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 2991c4ed8aeae844096c89f26e20499f
+# ba_track_id: 2991c4ed8aeae844096c89f26e20499f
   
 # google analytics config
 ga:
