@@ -4,7 +4,7 @@
 <script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
 
 {% if site.mathjax == 'enabled' %}
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 {% endif %}
 
 <!-- Google Analytics -->
@@ -23,10 +23,9 @@
 <script>
     var _hmt = _hmt || [];
     (function() {
-      var hm = document.createElement("script");
-      hm.src = "https://hm.baidu.com/hm.js?2991c4ed8aeae844096c89f26e20499f";
-      var s = document.getElementsByTagName("script")[0];
-      s.parentNode.insertBefore(hm, s);
+		var hm = document.createElement("script");
+		hm.src = "https://hm.baidu.com/hm.js?2991c4ed8aeae844096c89f26e20499f";
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(hm, s);
     })();
 </script>
-{% endif %}
