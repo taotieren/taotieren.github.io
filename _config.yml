@@ -1,0 +1,57 @@
+# Site settings
+title: taotieren
+email: admin@taotieren.com
+description: > # this means to ignore newlines until "baseurl:"
+  taotieren的博客
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: https://taotieren.com # the base hostname & protocol for your site
+rss_url: /pages/feed.xml
+author: taotieren
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+recent_num: 20
+
+# Social account
+twitter: taotieren
+#weibo: taotieren
+github: taotieren
+zhihu: taotieren
+facebook: taotieren
+# instagram: taotieren
+# linkedin: taotieren
+
+# avatar and Favicon
+avatar: /assets/img/avatar-taotieren.jpg
+favicon: /assets/img/favicon.ico
+
+# disqus config
+disqus:
+  shortname: taotieren
+
+# Analytics settings
+# Baidu Analytics
+ba_track_id: 2991c4ed8aeae844096c89f26e20499f
+  
+# google analytics config
+ga:
+  id: UA-129812502-1 
+  url: taotieren.com
+
+# Build settings
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+mathjax: disabled
+sass:
+  style: compressed
+
+# Jekyll Plugin
+# https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+
