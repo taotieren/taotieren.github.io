@@ -20,16 +20,11 @@
 {% endif %}
 
 <!-- Baidu Tongji -->
-{% if site.ba_track_id %}
 <script>
-    // dynamic User by taotieren
-    var _baId = '{{ site.ba_track_id }}';
-
-    // Originial
     var _hmt = _hmt || [];
     (function() {
       var hm = document.createElement("script");
-      hm.src = "https://hm.baidu.com/hm.js?" + _baId;
+      hm.src = "https://hm.baidu.com/hm.js?2991c4ed8aeae844096c89f26e20499f";
       var s = document.getElementsByTagName("script")[0];
       s.parentNode.insertBefore(hm, s);
     })();
