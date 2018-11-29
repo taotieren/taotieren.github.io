@@ -5,6 +5,8 @@ layout: post
 
 ## 关于我
 
+Lifetime Learning！
+
 生命不息，折腾不止。
 
 ## 对博客的理解
@@ -17,6 +19,12 @@ layout: post
 
 ## 博客平台
 
-这个博客通过 [Jekyll](https://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题。
+这个博客通过 [Jekyll](https://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，本博客在[Su Yan](https://github.com/suyan/suyan.github.io)的博客上二次开发而来，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成。
 
 本博客的源码托管在 [Github](https://github.com/taotieren/taotieren.github.io) 上，如果有任何改进意见，欢迎讨论。
+
+### Thanks you for watching！
+
+如果觉得本博客对你有帮助，欢迎捐助！
+
+![Alipay](assets\img\index_img\Alipay.png)
