@@ -7,7 +7,7 @@
 ### 安装说明
 
 ​
-
+```
     1. fork 到自己的github
     2. 使用 gh-pages 分支
     3. 修改名字为：`username.github.io`
@@ -18,7 +18,7 @@
     8. jekyll s
     9. It's done!
 
-
+```
 
 
 
