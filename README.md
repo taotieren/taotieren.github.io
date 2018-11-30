@@ -20,8 +20,10 @@
 
 ​```
 
+
 ### 分支说明
 
+- 基于[Su Yan](https://github.com/suyan/suyan.github.io)的博客上二次开发而来
 
 - 三栏布局（master分支，基于[3-Jekyll](https://github.com/P233/3-Jekyll)）
 
