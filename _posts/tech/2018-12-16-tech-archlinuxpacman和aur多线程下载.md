@@ -1,3 +1,13 @@
+---
+layout: post
+title: ArchlinuxPacman和AUR多线程下载
+category: 科技
+tags: [Arch , linux , Pacman , AUR]
+keywords: Arch , linux , Pacman , AUR
+description: ArchlinuxPacman和AUR多线程下载
+---
+
+
 ### 0x01 配置Pacman多线程下载
 
 

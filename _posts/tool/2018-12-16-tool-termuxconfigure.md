@@ -1,3 +1,14 @@
+---
+layout: post
+title: Termux Configure
+category: 工具
+tags: [Termux , Linux , Android]
+keywords: Termux , Linux , Android
+description: Termux Configure
+---
+
+
+
 ### 0x01
 ```bash
 export EDITOR=vi #将vi添加到环境变量里面（当前用户）
