@@ -1,5 +1,5 @@
 ---
-title: Why Blog
+title: taotieren
 layout: post
 ---
 
@@ -19,7 +19,7 @@ Lifetime Learning！
 
 ## 博客平台
 
-这个博客通过 [Jekyll](https://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，本博客在[Su Yan](https://github.com/suyan/suyan.github.io)的博客上二次开发而来，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成。
+这个博客通过 [Jekyll](https://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，本博客在 [Su Yan](https://github.com/suyan/suyan.github.io) 的博客上二次开发而来，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成。
 
 本博客的源码托管在 [Github](https://github.com/taotieren/taotieren.github.io) 上，如果有任何改进意见，欢迎讨论。
 
