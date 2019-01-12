@@ -8,7 +8,7 @@
 
 ​
 ```
-    1. fork 到自己的github
+    1. fork 到自己的 GitHub
     2. 使用 gh-pages 分支 git clone -b gh-pages git@github.com:taotieren/taotieren.github.io.git
     3. 修改名字为：`username.github.io`
     4. clone库到本地，参考`_posts`中的目录结构自己创建适合自己的文章目录结构
