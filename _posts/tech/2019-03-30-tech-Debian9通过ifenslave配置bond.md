@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 标题
+title: Debian9 通过 ifenslave 配置多网卡 bond
 category: 科技
 tags: [Debian9,ifenslave,bond]
 keywords: Debian9,ifenslave,bond
