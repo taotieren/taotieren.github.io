@@ -1,15 +1,15 @@
 ### 我的博客
 ​
 
-地址：[taotieren.com](https://taotieren.com)
+地址：[https://taotieren.com](https://taotieren.com)
 
 
 ### 安装说明
 
 ​
 ```
-    1. fork 到自己的github
-    2. 使用 gh-pages 分支 git clone -b gh-pages https://github.com/taotieren/taotieren.github.io
+    1. fork 到自己的 GitHub
+    2. 使用 gh-pages 分支 git clone -b gh-pages git@github.com:taotieren/taotieren.github.io.git
     3. 修改名字为：`username.github.io`
     4. clone库到本地，参考`_posts`中的目录结构自己创建适合自己的文章目录结构
     5. 修改CNAME， 设置成自己自定义的域名或者删掉这个文件，使用`username.github.io`默认域名
